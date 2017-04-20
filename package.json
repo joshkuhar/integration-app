@@ -1,0 +1,24 @@
+{
+  "name": "integration-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshkuhar/integration-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshkuhar/integration-app/issues"
+  },
+  "homepage": "https://github.com/joshkuhar/integration-app#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-native": "^0.43.3"
+  }
+}
